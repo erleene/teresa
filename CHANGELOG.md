@@ -10,6 +10,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Update `gorm` version to v1.9.1
 - Update `go-sql-driver/mysql`
+- Show CREATED AT instead of AGE in deploy list
 
 ### Fixed
 - `.teresaignore` behavior (to work like `.gitignore`)
